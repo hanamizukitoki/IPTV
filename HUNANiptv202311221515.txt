@@ -202,7 +202,6 @@
 常德综合,http://39.134.13.35:6610/180000001001/00000001000000000014000000153736/index.m3u8?
 常德综合,http://183.215.116.134:6610/180000001001/00000001000000000014000000153736/main.m3u8?IASHttpSessionId=OTT
 湖南茶频道,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-
 央视,#genre#
 CCTV1,http://[2409:8087:5011:1020::1a]/180000001001/00000001000000000002000000027984/main.m3u8?IASHttpSessionId=OTT
 CCTV1,http://[2409:8087:5011:1020::2e]/180000001001/00000001000000001001000000000036/main.m3u8?IASHttpSessionId=OTT
@@ -1680,7 +1679,6 @@ TVB星河,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATz
 耀才财经台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
-
 台湾电视台,#genre#
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 Global News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
@@ -1713,13 +1711,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
-大爱1,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱3,http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
-大爱4,http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=ME5E3594665135946651&ct=19249&tsum=1628ac38fd6a79879fccae39de8e845b
 大立电视台,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 东森超视34.5,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
@@ -1761,7 +1757,6 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-
 中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中视,rtmp://119.81.124.89/sat/tv091
 中台湾生活网,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
@@ -1804,6 +1799,63 @@ WOWOW Prime (720p),http://203.162.235.41:27106
 日本购物,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
+美国电视台,#genre#
+Animal Planet,http://208.115.225.174:14192
+ESPN 4,http://208.115.225.174:14510
+HBO Mundi,http://208.115.225.174:14148
+HBO signature,http://208.115.225.174:14160
+HBO Signature,http://208.115.225.174:14160
+HBO,http://208.115.225.174:14136
+HBO,http://208.115.225.174:14165
+HBO2,http://208.115.225.174:14140
+HBO强档巨献,http://50.7.238.114:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&ct=19193&tsum=6999a99699b097f3af2ef550e5c81f93
+HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+HBO原创,http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MD6D5767423357674233&ct=18392&tsum=995709f1100cf1b07964790160bfb4ee
+MTV音乐,http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
+ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
+Premiere,http://208.115.225.174:14460
+Premiere,http://208.115.225.174:14468
+爱自然lovenature,http://api2.52tb.xyz/info?id=163&token=20230404dmgnht
+法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+美国NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+美国NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+美国中文电视,https://cdnts.sinovision.net/livestream.m3u8
+美国中文电视,https://jpts.sinovision.net/livestream.m3u8
+时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+国外其他,#genre#
+DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+阿联酋ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+巴西Sbt,http://208.115.225.174:14170
+巴西Sbt,http://208.115.225.174:14173
+巴西Sbt,http://208.115.225.174:14176
+巴西ZOO MOO,https://zoomoo-samsungau.amagi.tv:443/playlist1080p.m3u8
+丹麦VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
+俄罗斯CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+俄罗斯Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+俄罗斯IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+俄罗斯UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+加拿大CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+卡塔尔半岛电视台新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+泰国THAIPBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+泰国THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
+泰国THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+乌克兰100ws,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
+新加坡Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新加坡Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+新西兰3TVNZ,http://s1.media-planet.sk:80/live/novezamky/BratuMarian.m3u8
+伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+伊朗-PBCTapeshTV,http://iptv.tapesh.tv/tapesh/playlist.m3u8
+越南ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+越南BRT,http://113.163.216.23:1935/live/tv2.stream_480p/chunklist_w1716759116.m3u8
+越南DaNangTV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+越南HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
+越南NhanDan,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+越南NhanDan,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
+越南嘉莱,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 精彩影视,#genre#
 精彩影视,http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000320630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
 精彩影视,http://223.83.183.218:9901/tsfile/live/0001_39.m3u8
@@ -1902,45 +1954,45 @@ WOWOW Prime (720p),http://203.162.235.41:27106
 斗鱼-网神影厅,http://epg.112114.xyz/douyu/508118
 斗鱼-译制国语,http://epg.112114.xyz/douyu/2436390
 明星电影,#genre#
+成龙,http://epg.112114.xyz/huya/11342386
 成龙,http://hls.ye23.vip/wl/huya2205.php?id=11342386
-周星驰,http://hls.ye23.vip/wl/huya2205.php?id=11342412
-周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=38670875
-沈腾,http://hls.ye23.vip/wl/huya2205.php?id=11601968
-林正英,http://hls.ye23.vip/wl/huya2205.php?id=11342421
-洪金宝元彪,http://hls.ye23.vip/wl/huya2205.php?id=11342427
-甄子丹,http://hls.ye23.vip/wl/huya2205.php?id=11352935
-任达华,http://hls.ye23.vip/wl/huya2205.php?id=11352883
-刘德华,http://hls.ye23.vip/wl/huya2205.php?id=11342424
-刘德华,http://epg.112114.xyz/douyu/8985415
-古天乐,http://hls.ye23.vip/wl/huya2205.php?id=11342419
-李连杰,http://hls.ye23.vip/wl/huya2205.php?id=11342390
-孙红雷,http://hls.ye23.vip/wl/huya2205.php?id=11352878
-周迅,http://hls.ye23.vip/wl/huya2205.php?id=11352906
-周润发,http://hls.ye23.vip/wl/huya2205.php?id=11342387
-许冠英,http://epg.112114.xyz/huya/11601972
-李冰冰,http://hls.ye23.vip/wl/huya2205.php?id=11352913
-五福星,http://hls.ye23.vip/wl/huya2205.php?id=11282233
-周润发,http://epg.112114.xyz/huya/11342387
-李连杰,http://epg.112114.xyz/huya/11342390
-甄子丹,http://epg.112114.xyz/huya/11352935
-邱淑贞,http://epg.112114.xyz/huya/11352949
-刘德华3,http://epg.112114.xyz/huya/11342424
-林正英2,http://epg.112114.xyz/huya/11342421
-成龙2,http://epg.112114.xyz/huya/11342386
-徐峥,http://epg.112114.xyz/huya/11602043
-沈腾,http://epg.112114.xyz/huya/11601968
-古天乐,http://epg.112114.xyz/huya/11602041
-刘家辉,http://120.204.20.48/tx.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
-洪金宝,http://120.204.20.48/tx.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
-周润发,http://120.204.20.48/tx.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
-李连杰,http://120.204.20.48/tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
 古天乐,http://120.204.20.48/tx.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
-沈腾,http://120.204.20.48/tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
-林青霞,http://120.204.20.48/tx.flv.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
-周潤發,http://120.204.20.48/tx.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+古天乐,http://epg.112114.xyz/huya/11602041
+古天乐,http://hls.ye23.vip/wl/huya2205.php?id=11342419
+洪金宝,http://120.204.20.48/tx.flv.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+洪金宝元彪,http://hls.ye23.vip/wl/huya2205.php?id=11342427
+李冰冰,http://hls.ye23.vip/wl/huya2205.php?id=11352913
+李连杰,http://120.204.20.48/tx.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+李连杰,http://epg.112114.xyz/huya/11342390
+李连杰,http://hls.ye23.vip/wl/huya2205.php?id=11342390
 李连杰,https://epg.112114.xyz/huya/11342390
 梁家辉,https://epg.112114.xyz/huya/11342429
+林青霞,http://120.204.20.48/tx.flv.huya.com/src/1423782080-1423782080-6115097470230855680-2847687616-10057-A-0-1.xs
+林正英,http://epg.112114.xyz/huya/11342421
+林正英,http://hls.ye23.vip/wl/huya2205.php?id=11342421
+刘德华,http://epg.112114.xyz/douyu/8985415
+刘德华,http://epg.112114.xyz/huya/11342424
+刘德华,http://hls.ye23.vip/wl/huya2205.php?id=11342424
+刘家辉,http://120.204.20.48/tx.flv.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+邱淑贞,http://epg.112114.xyz/huya/11352949
+任达华,http://hls.ye23.vip/wl/huya2205.php?id=11352883
+沈腾,http://120.204.20.48/tx.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+沈腾,http://epg.112114.xyz/huya/11601968
+沈腾,http://hls.ye23.vip/wl/huya2205.php?id=11601968
+孙红雷,http://hls.ye23.vip/wl/huya2205.php?id=11352878
+五福星,http://hls.ye23.vip/wl/huya2205.php?id=11282233
+徐峥,http://epg.112114.xyz/huya/11602043
+许冠英,http://epg.112114.xyz/huya/11601972
+甄子丹,http://epg.112114.xyz/huya/11352935
+甄子丹,http://hls.ye23.vip/wl/huya2205.php?id=11352935
 甄子丹,https://epg.112114.xyz/huya/11352935
+周润发,http://120.204.20.48/tx.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+周润发,http://120.204.20.48/tx.flv.huya.com/src/1448686695-1448686695-6222061977175326720-2847687574-10057-A-0-1.xs
+周润发,http://epg.112114.xyz/huya/11342387
+周润发,http://hls.ye23.vip/wl/huya2205.php?id=11342387
+周星驰,http://hls.ye23.vip/wl/huya2205.php?id=11342412
+周星驰,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=38670875
+周迅,http://hls.ye23.vip/wl/huya2205.php?id=11352906
 分类电影,#genre#
 喜剧专场,http://hls.ye23.vip/wl/huya2205.php?id=11352894
 武侠动作,http://hls.ye23.vip/wl/huya2205.php?id=11352897
@@ -2126,3 +2178,17 @@ TVB埋堆堆,#genre#
 埋堆堆92,http://aldirect.corp-hls.huya.com/src/1199563488528-1199563488528-5444356138466279424-2399127100512-10057-A-0-1.m3u8?wsiphost=ipdbme
 埋堆堆93,http://aldirect.corp-hls.huya.com/src/1199561176260-1199561176260-5434425023026692096-2399122475976-10057-A-0-1.m3u8?wsiphost=ipdbme
 埋堆堆94,http://aldirect.corp-hls.huya.com/src/1199563564801-1199563564801-5444683728506847232-2399127253058-10057-A-0-1.m3u8?wsiphost=ipdbme
+动画片,#genre#
+哆啦A梦,https://epg.112114.xyz/huya/11601963
+猫和老鼠,https://epg.112114.xyz/huya/11352879
+网球王子,https://epg.112114.xyz/huya/11352882
+海贼王,https://epg.112114.xyz/huya/16913382
+中华小当家,https://epg.112114.xyz/huya/11342413
+海绵宝宝,http://epg.112114.xyz/douyu/7528160
+海绵宝宝,http://epg.112114.xyz/douyu/1569773
+海绵宝宝,http://epg.112114.xyz/douyu/3949681
+名侦探柯南,http://epg.112114.xyz/douyu/6484910
+名侦探柯南,http://epg.112114.xyz/douyu/1783144
+名侦探柯南,http://epg.112114.xyz/douyu/7050342
+圣斗士星矢,http://epg.112114.xyz/douyu/8458270
+假面骑士,http://epg.112114.xyz/douyu/1218414
