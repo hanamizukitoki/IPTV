@@ -1816,15 +1816,12 @@ ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 Premiere,http://208.115.225.174:14460
 Premiere,http://208.115.225.174:14468
 爱自然lovenature,http://api2.52tb.xyz/info?id=163&token=20230404dmgnht
-法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
-法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-美国NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-美国NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-美国红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-美国中文电视,https://cdnts.sinovision.net/livestream.m3u8
-美国中文电视,https://jpts.sinovision.net/livestream.m3u8
-时尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+中文电视,https://cdnts.sinovision.net/livestream.m3u8
+中文电视,https://jpts.sinovision.net/livestream.m3u8
 国外其他,#genre#
 DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 阿联酋ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
@@ -1838,6 +1835,9 @@ DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.
 俄罗斯IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+法国FashionTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+法国FashionTV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 加拿大CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 卡塔尔半岛电视台新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 泰国THAIPBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
