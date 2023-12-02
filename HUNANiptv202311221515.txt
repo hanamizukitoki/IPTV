@@ -744,23 +744,14 @@ ViuTVsix (720p),https://live.astradamy.com/viutv6/index.m3u8
 鳳凰衛視資訊台HD (720p) [Not 24/7],http://117.169.120.138:8080/live/fhzixun/.m3u8
 
 台湾,#genre#
-八大第一,http://123.51.230.108:18539/.m3u8
-八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
+
 八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MD2D8073200480732004&ct=19254&tsum=5cb051b366ad3740cebcc06a987d749e
-八大第一,http://50.7.238.114:8278/badafirst/playlist.m3u8?tid=MBDB5904995459049954&ct=19193&tsum=ab627e00a84b423b5747a65289eec076
-八大第一,http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164
-八大戏剧,http://61.221.81.93:8078/hls/38/80/gtvdrama.m3u8
-八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5
-八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
+
+
 八大戏剧,http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m4a65d3abd9ee13871929&ct=17924&tsum=8e5ef501e42d00cdc6a761ca3dc693d8
-八大戏剧,http://50.7.238.114:8278/badadrama/playlist.m3u8?tid=MBCB2433143824331438&ct=19254&tsum=51660c351b3991d81434e43bd1ab720e
-八大综合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
-八大综合,http://198.16.100.90:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
-博斯运动 1,http://50.7.238.114:8278/bosisport1_twn/playlist.m3u8?tid=MDAD4087844840878448&ct=19249&tsum=0a23fd28e83ff8205a515273a4c1b421
-博斯运动2,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-博斯运动2,http://50.7.238.114:8278/bosisport2_twn/playlist.m3u8?tid=mb50f39eebf51&ct=18335&tsum=4f8960c36a3e7f2b069d574293809283
-博斯运动2,http://198.16.100.90:8278/bosisport2_twn/playlist.m3u8?tid=ME9E7698135376981353&ct=19249&tsum=9eadcc8585f74357f09f1465844024c9
+
+
+
 大爱,http://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱,http://50.7.238.114:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336
 大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
@@ -788,23 +779,10 @@ ViuTVsix (720p),https://live.astradamy.com/viutv6/index.m3u8
 年代MUCH,http://61.221.81.93:8078/hls/27/80/much.m3u8
 年代新闻,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
 年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-三立都会,http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
-三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-三立台湾,http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&ct=19193&tsum=15393958be0bf6c0905bbb578dad1240
-三立台湾,http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-三立戏剧,http://198.16.100.90:8278/sanlixiju_twn/playlist.m3u8?tid=MA8A4626080046260800&ct=19053&tsum=205a453781925ebfb8996c1db8d4ed59
-三立综合,http://50.7.238.114:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b
-台视,rtmp://119.81.124.89/sat/tv071
-台视,http://162.19.247.76:22222/live/taishi/index.m3u8
+
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-天映经典,http://162.19.247.76:22222/live/tyjd/index.m3u8
-纬来日本,rtmp://119.81.124.89/sat/tv771
-纬来体育,rtmp://119.81.124.89/sat/tv721
-纬来体育,http://50.7.238.114:8278/videolandsport/playlist.m3u8?tid=MD2D5343800653438006&ct=19234&tsum=1be724fb8246abfedaf2bd088ec98f03
-纬来育乐,rtmp://119.81.124.89/sat/tv701
-无线财经,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxNR4FqM3EgPoN7yqNVDCIzY/ts
-无线财经,https://dispatch.ulivetv.net/v/live/ccns2zd6z3y8.m3u8?stream_id=ccns2zd6z3y8&timestamp=1684219139&rand=nYeBsGk0z6&uuid=9b647b3816b2a66a&from=web&sign=fb72ab2eb27f3d3c9c89c47910402251
+
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
@@ -812,75 +790,29 @@ ViuTVsix (720p),https://live.astradamy.com/viutv6/index.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 中视,http://61.221.81.93:8078/hls/39/80/gtvdrama.m3u8
 中视,rtmp://119.81.124.89/sat/tv091
-中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1685187300&rand=SItVoOb1jj&uuid=9b647b3816b2a66a&from=web&sign=ee9793023b0702b7fcd1bb47ca489dd7
-中天综合,http://61.221.81.93:8078/hls/35/80/cti.m3u8
-中天综合,https://dispatch.ulivetv.net/v/live/cg0ifkvu1hhc.m3u8?stream_id=cg0ifkvu1hhc&timestamp=1684387487&rand=h5ZAGkW3j1&uuid=9b647b3816b2a66a&from=web&sign=190c1b05dbf0f302a89ff5463ea6a99c
+
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 CTi Variety (中天綜合台) (720p),http://23.237.10.66:16372
 CTS News (華視新聞資訊) [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
 DaAi1 (大愛1) (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 DaAi2 (大愛2) (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 Dali TV (大立電視台) (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-EBC Financial News (東森財經新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dscjxw_fhd.m3u8
-EBC News (東森新聞台) (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
-FTV (民視) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=ms
-FTV One (民視第一台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=dy
-FTV Taiwan (民視台灣台) (720p) [Not 24/7],http://seb.sason.top/ptv/ftv.php?id=tw
+
 Global News (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-GOOD TV CH1 綜合台 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech1.m3u8
-GOOD TV CH2 真理台 (720p),https://live.streamingfast.net/osmflivech2.m3u8
-GOOD TV CH3 真情部落格 短版 (720p),https://live.streamingfast.net/osmflivech3.m3u8
-GOOD TV CH5 共享觀點 短版 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech5.m3u8
-GOOD TV CH6 親近神 詩歌音樂 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech6.m3u8
-GOOD TV CH7 禱告大軍 信息 (720p),https://live.streamingfast.net/osmflivech7.m3u8
-GOOD TV CH9 愛+好醫生 短版 (720p),https://live.streamingfast.net/osmflivech9.m3u8
-GOOD TV CH12 維他命施 (720p),https://live.streamingfast.net/osmflivech12.m3u8
-GOOD TV CH14 真情部落格 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech14.m3u8
-GOOD TV CH15 真情之夜 (720p),https://live.streamingfast.net/osmflivech15.m3u8
-GOOD TV CH16 葉光明 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech16.m3u8
-GOOD TV CH17 大衛鮑森 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech17.m3u8
-GOOD TV CH18 國際講員 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech18.m3u8
-GOOD TV CH20 恩典時分 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech20.m3u8
-GOOD TV CH21 華語講員 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech21.m3u8
-GOOD TV CH24 劉三講古 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech24.m3u8
-GOOD TV CH27 空中聖經學院 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech27.m3u8
-GOOD TV CH28 現代詩歌 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech28.m3u8
-GOOD TV CH29 經典音樂河 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech29.m3u8
-GOOD TV CH30 天堂敬拜 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech30.m3u8
-GOOD TV CH31 福音佈道音樂會 (720p),https://live.streamingfast.net/osmflivech31.m3u8
-GOOD TV CH32 特會系列：禱告與轉化 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech32.m3u8
-GOOD TV CH33 特會系列：研經培靈 (720p),https://live.streamingfast.net/osmflivech33.m3u8
-GOOD TV CH38 特會系列：青年特會 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech38.m3u8
-GOOD TV CH40 家庭8點檔轉轉發現愛 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech40.m3u8
-GOOD TV CH45 卡通 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech45.m3u8
-GOOD TV CH47 牧者頻道 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech47.m3u8
-GOOD TV CH49 禱告頻道 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech49.m3u8
-GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7],https://live.streamingfast.net/osmflivech50.m3u8
-Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
-SET News (三立新聞) (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
-Taiwan Indigenous TV (原住民電視) (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+
+
+
+
 Taiwan Plus TV (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 TVBS News (TVBS新聞台) [Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-三立台灣 (1080p),http://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042391~exp=9007200918783382~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=29538a1877a3c3728afe61bcd55b5a7b98f517bb3e2c75f8433b9338fda5b3e3
-三立台灣 (1080p),https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都會 (1080p),https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-三立都會台 (1080p),http://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664042191~exp=9007200918783182~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=957e95920f87270a35afde9e5bd3d25c96af4c19596f0f2cc44ff968b89165c1
+
+
 中天新聞台 (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-台视 (720p),http://162.19.247.76:22222/live/taishi/index.m3u8
+
 唯心電視 (480p),https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 天才衝衝衝 (1080p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
-東森購物60 (480p),https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
-立法院IVOD直播交通委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live6/hls-cl-tv/index.m3u8
-立法院IVOD直播內政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live7/hls-cl-tv/index.m3u8
-立法院IVOD直播司法及法制委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live9/hls-cl-tv/index.m3u8
-立法院IVOD直播外交及國防委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live8/hls-cl-tv/index.m3u8
-立法院IVOD直播教育及文化委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live4/hls-cl-tv/index.m3u8
-立法院IVOD直播朝野協商 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live10/hls-cl-tv/index.m3u8
-立法院IVOD直播社會福利及衛生環境委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live3/hls-cl-tv/index.m3u8
-立法院IVOD直播經濟委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live5/hls-cl-tv/index.m3u8
-立法院IVOD直播財政委員會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live2/hls-cl-tv/index.m3u8
-立法院IVOD直播院會 (450p),https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
+
 日本,#genre#
 BS Asahi (720p),http://203.162.235.41:29108
 BS Fuji TV (720p),http://203.162.235.41:22101
