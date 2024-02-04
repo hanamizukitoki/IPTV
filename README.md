@@ -19,6 +19,7 @@ https://tvbox.cainisi.cf
 https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json
 
 直播源两个
-
 https://github.com/wcb1969/iptv
-https://github.com/iptv-org/iptv/tree/master/streams![image](https://github.com/hanamizukitoki/IPTV/assets/9008185/8370983d-c9a0-4c54-96e1-8df86abd6ddd)
+https://github.com/iptv-org/iptv/tree/master/streams![Uploading image.png…]()
+
+
