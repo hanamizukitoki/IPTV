@@ -24,3 +24,8 @@ https://github.com/iptv-org/iptv/tree/master/streams
 
 
 
+直播源地址
+https://raw.gitcode.com/hanamizukitoki/ad/raw/main/1.txt
+
+EPG节目表
+http://epg.112114.xyz/?ch={name}&date={date}
