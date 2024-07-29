@@ -1960,7 +1960,6 @@ WWON TV CH 48,https://hls-cdn.tvstartup16.net/tvstartup16-channel/live/mp4:jimbo
 Yahoo! Finance (1080p),https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Youtoo America (1080p),https://thegateway.app/YouToo/CueTones/playlist.m3u8
 Youtoo America (1080p),https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/
 FOX News Channel (720p),http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
 Nudu,https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
 MeTV Toons (720p),https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
