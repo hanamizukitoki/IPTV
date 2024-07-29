@@ -3907,16 +3907,6 @@ https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 https://thegateway.app/YouToo/CueTones/playlist.m3u8
 #EXTINF:-1 group-title="美国电视台",Youtoo America (1080p)
 https://thegateway.app/YouToo/YTamerica/playlist.m3u8
-#EXTINF:-1 group-title="Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/",FOX News Channel (720p)
-http://fl2.moveonjoy.com/FOX_News_Channel/index.m3u8
-#EXTINF:-1 group-title="Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/",Nudu
-https://d1p0bzoad08w6e.cloudfront.net/encode/nudu.m3u8
-#EXTINF:-1 group-title="Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/",MeTV Toons (720p)
-https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c75076211d060179b3ad0c64fdc6ca/metv_toon_nr/0d1dbf29e64e47bc991796cc24fbeb97/index.m3u8
-#EXTINF:-1 group-title="Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/",Comedy Central East
-http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
-#EXTINF:-1 group-title="Zoom TV Kurdish (720p),#EXTVLCOPT:http-referrer=https://zoomnews.info/",30A Ridiculous TV (720p)
-https://30a-tv.com/feeds/720p/63.m3u8
 #EXTINF:-1 group-title="国外其他",DaNangTV2(5G专线)
 http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="国外其他",阿联酋ZEEALWAN50
