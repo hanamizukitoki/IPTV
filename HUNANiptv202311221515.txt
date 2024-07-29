@@ -38,7 +38,6 @@ CCTV4,http://39.134.13.35:6610/180000001001/00000001000000001001000000000052/mai
 CCTV4,http://39.134.240.3/PLTV/2/224/3221225829/index.m3u8
 CCTV4,http://39.134.240.3/PLTV/2/224/3221225924/index.m3u8
 CCTV4,http://39.134.242.92:80/180000001002/00000001000000000008000000047433/index.m3u8
-CCTV4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV5,http://183.215.102.57:8089/180000001001/00000001000000000008000000047434/main.m3u8
 CCTV5,http://39.134.13.35:6610/180000001001/00000001000000000008000000047456/index.m3u8?
 CCTV5,http://39.134.13.35:6610/180000001001/00000001000000001001000000000053/index.m3u8?
@@ -142,11 +141,8 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CGTN美国,http://live.cgtn.com/1000/prog_index.m3u8
 CGTN西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN西语,https://livees.cgtn.com/1000e/prog_index.m3u8
-CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
-欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226582/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 湖南电视台,#genre#
 湖南卫视,http://39.134.13.34:6610/180000001001/00000001000000000007000000001242/index.m3u8?
 湖南卫视,http://39.134.13.35:6610/180000001001/00000001000000000002000000027982/index.m3u8?
@@ -531,8 +527,6 @@ CGTN西语,https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 重庆卫视,http://39.134.242.92:80/180000001002/00000000000000020000000000182258/index.m3u8
 地方电视台,#genre#
 安徽-黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
-安徽-黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
-安徽-黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
 安康公共频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
 安康教育频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakjypd.m3u8
 安康新闻频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakzhpd.m3u8
@@ -2006,17 +2000,6 @@ DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.
 小宇60帧,http://epg.112114.xyz/douyu/323876
 怀旧90,http://epg.112114.xyz/douyu/9275635
 变种人电影,http://epg.112114.xyz/douyu/9651304
-华语动作电影,http://epg.112114.xyz/douyu/1504768
-明星电影,#genre#
-成龙,http://epg.112114.xyz/huya/11342386
-古天乐,http://epg.112114.xyz/huya/11602041
-洪金宝元彪,http://hls.ye23.vip/wl/huya2205.php?id=11342427
-刘德华,http://epg.112114.xyz/douyu/8985415
-邱淑贞,http://epg.112114.xyz/huya/11352949
-徐峥,http://epg.112114.xyz/huya/11602043
-甄子丹,http://epg.112114.xyz/huya/11352935
-甄子丹,https://epg.112114.xyz/huya/11352935
-周润发,http://epg.112114.xyz/huya/11342387
 电影解说,#genre#
 电影解说1,http://epg.112114.xyz/douyu/1979257
 电影解说3,http://epg.112114.xyz/douyu/2987100
