@@ -1,6 +1,10 @@
-安装tvbox，导入配置和直播源（https://t.me/TVBoxOSC）
+安装tvbox，导入配置和直播源
 
-tvbox接口汇总（https://xn--sss604efuw.com/）
+https://t.me/TVBoxOSC
+
+tvbox接口汇总
+
+https://xn--sss604efuw.com/
 
 直播源两个
 
