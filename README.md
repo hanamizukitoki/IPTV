@@ -16,3 +16,7 @@ https://raw.githubusercontent.com/hanamizukitoki/IPTV/main/HUNANiptv202311221515
 EPG节目表
 
 http://epg.112114.xyz/?ch={name}&date={date}
+
+M3U格式列表在线转换工具
+
+https://guihet.com/convert-m3u-js.html
