@@ -4,7 +4,7 @@ https://t.me/TVBoxOSC
 
 tvbox接口汇总
 
-https://xn--sss604efuw.com/
+https://xn--sss604efuw.com/tv
 
 直播源两个
 
