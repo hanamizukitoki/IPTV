@@ -19,8 +19,7 @@ https://github.com/iptv-org/iptv/tree/master/streams
 
 直播源地址
 
-https://www.now61.com/f/14OktL/HUNANiptv202311221515.txt
-https://od.lk/d/OTFfMzY3ODY1OTVf/HUNANiptv202311221515.txt
+https://od.lk/s/OTFfNDAwMzU1MjFf/HUNANiptv.txt
 https://raw.githubusercontent.com/hanamizukitoki/IPTV/main/HUNANiptv202311221515.txt
 
 
@@ -30,4 +29,4 @@ http://epg.112114.xyz/?ch={name}&date={date}
 
 M3U格式列表在线转换工具
 
-https://guihet.com/convert-m3u-js.html
+https://sankei.mo/z.html
