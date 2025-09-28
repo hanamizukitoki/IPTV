@@ -1354,6 +1354,145 @@ Tokyo MX1 (720p),https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/3
 Tokyo MX2 (720p),https://mcas-eqms-mx1-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 Tokyo MX2 (720p),https://mcas-eqms-mx2-live.hls.davlive.stream.ne.jp/mt/master/340f27cd590451b1e7d0034b85b5175ddaf05454/EQMS_MX2/master.m3u8
 Weathernews (720p),https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3audio-only=false).m3u8
+NHK G,https://mt01.utako.moe/NHK_G/index.m3u8
+NHK E,https://mt01.utako.moe/NHK_E/index.m3u8
+NTV,https://mt01.utako.moe/Nippon_TV/index.m3u8
+TBS,https://mt01.utako.moe/TBS/index.m3u8
+Fuji TV,https://mt01.utako.moe/Fuji_TV/index.m3u8
+TV Asahi,https://mt01.utako.moe/TV_Asahi/index.m3u8
+TV Tokyo,https://mt01.utako.moe/TV_Tokyo/index.m3u8
+TOKYO MX1,https://mt01.utako.moe/Tokyo_MX1/index.m3u8
+TOKYO MX2,https://mt01.utako.moe/Tokyo_MX2/index.m3u8
+NHK G HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd01
+NHK E HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd02
+NTV HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd03
+TBS HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd04
+Fuji TV HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd05
+TV Asahi (NSFW) HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd06
+TV Tokyo HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd07
+TOKYO MX1 HD (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=hdgd08
+NHK G (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd01
+NHK E (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd02
+NTV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd03
+TBS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd04
+Fuji TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd05
+TV Asahi (NSFW) (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd06
+TV Tokyo (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd07
+TOKYO MX1 (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gd08
+MBS,https://mt01.utako.moe/mbs/index.m3u8
+ABC,https://mt01.utako.moe/abc/index.m3u8
+TV Osaka,https://mt01.utako.moe/tvo/index.m3u8
+Kansai TV,https://mt01.utako.moe/kansaitv/index.m3u8
+ytv,https://mt01.utako.moe/ytv/index.m3u8
+KBS,https://mt01.utako.moe/kbs/index.m3u8
+SUN,https://mt01.utako.moe/suntv/index.m3u8
+NHK G Osaka (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx06
+MBS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx01
+ABC (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx02
+Kansai TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx03
+ytv (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx04
+TV Osaka (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx05
+SUN (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=gx07
+NHK BS,https://mt01.utako.moe/NHK_BS/index.m3u8
+BS NTV,https://mt01.utako.moe/bsntv/index.m3u8
+BS Asahi,https://mt01.utako.moe/bsasahi/index.m3u8
+BS TBS,https://mt01.utako.moe/bstbs/index.m3u8
+BS TV Tokyo,https://mt01.utako.moe/bstvtokyo/index.m3u8
+BS Fuji,https://mt01.utako.moe/bsfuji/index.m3u8
+BS11,https://mt01.utako.moe/BS11/index.m3u8
+NHK BS4K,https://mt01.utako.moe/bsp4k/index.m3u8
+WOWOW Prime,https://mt01.utako.moe/wprime/index.m3u8
+WOWOW Cinema,https://mt01.utako.moe/wcinema/index.m3u8
+WOWOW Live,https://mt01.utako.moe/wlive/index.m3u8
+BS 10 Star Channel,https://mt01.utako.moe/bs10_star/index.m3u8
+JSport 1,https://mt01.utako.moe/js1/index.m3u8
+JSport 2,https://mt01.utako.moe/js2/index.m3u8
+JSport 3,https://mt01.utako.moe/js3/index.m3u8
+JSport 4,https://mt01.utako.moe/js4/index.m3u8
+Green Channel,https://mt01.utako.moe/green/index.m3u8
+Animax,https://ca01.utako.moe/Animax/index.m3u8
+Nihon Eiga Senmon,https://ca01.utako.moe/nihoneiga/index.m3u8
+Sky A,https://ca01.utako.moe/skya/index.m3u8
+NHK BS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs11
+BS NTV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs02
+BS Asahi (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs03
+BS TBS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs04
+BS TV Tokyo (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs05
+BS Fuji (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs06
+NHK BS4K (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs01
+WOWOW Prime (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs12
+WOWOW Cinema (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs07
+WOWOW Live (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs20
+BS 10 Star Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs08
+JSport 1 (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs18
+JSport 2 (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs19
+JSport 3 (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs21
+JSport 4 (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs22
+Green Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs14
+Animax (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs15
+Nihon Eiga Senmon (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs23
+Sky A (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs01
+ Fishing Vision (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs25
+ Disney Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs24 
+ JCOM BS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs31
+Gaora Sports,https://mt01.utako.moe/gaora/index.m3u8
+AT-X,https://mt01.utako.moe/AT-X/index.m3u8
+Space Shower TV,https://ca01.utako.moe/spaceshower/index.m3u8
+MTV,https://ca01.utako.moe/mtv/index.m3u8
+Kayo Pops,https://ca01.utako.moe/kayopops/index.m3u8
+Disney Channel,https://ca01.utako.moe/disneychan/index.m3u8
+Cartoon Network Japan,https://ca01.utako.moe/cartoon_network/index.m3u8
+Nittele G+,https://ca01.utako.moe/ntvgplus/index.m3u8
+Family Gekijyo,https://ca01.utako.moe/familygeki/index.m3u8
+Mondo TV,https://ca01.utako.moe/mondo/index.m3u8
+TBS Channel 1,https://ca01.utako.moe/tbsch1/index.m3u8
+TBS Channel 2,https://ca01.utako.moe/tbsch2/index.m3u8
+TV Asahi Channel 1,https://ca01.utako.moe/ex_ch1/index.m3u8
+TV Asahi Channel 2,https://ca01.utako.moe/ex_ch2/index.m3u8
+Fuji TV ONE,https://ca01.utako.moe/fuji_one/index.m3u8
+Fuji TV TWO,https://ca01.utako.moe/fuji_two/index.m3u8
+Fuji TV NEXT,https://ca01.utako.moe/fuji_next/index.m3u8
+Neco Channel,https://ca01.utako.moe/neco/index.m3u8
+Dlife,https://ca01.utako.moe/dlife/index.m3u8
+Toei Channel,https://ca01.utako.moe/toei/index.m3u8
+Fighting TV Samurai,https://ca01.utako.moe/fighting_tv/index.m3u8
+Entermei Tele,https://ca01.utako.moe/entermei_tele/index.m3u8
+Sport Live Plus,https://ca01.utako.moe/sport_live_plus/index.m3u8
+Home Drama Channel,https://ca01.utako.moe/homedrama/index.m3u8
+Channel Ginga,https://ca01.utako.moe/gingach/index.m3u8
+Tabi Channel,https://ca01.utako.moe/tabi/index.m3u8
+Pigoo (NSFW),https://ca01.utako.moe/pigoo/index.m3u8
+V Paradise (NSFW),https://ca01.utako.moe/v_paradise/index.m3u8
+ Jidaigeki Senmon (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs04
+ Toei Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs27
+ Eisei Gekijo (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs22
+ Family Gekijyo (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs20
+ Movie Plus (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs14
+ Home Drama Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs05
+ Tabi Channel (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs12
+ Fuji TV Next (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs26
+ Sky A  (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs01
+ GAORA SPORTS (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs17
+ Golf Network (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs03
+ Nittele G+ (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs02
+ Mondo TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs21
+ Channel Ginga (Primehome),https://epg.freejptv.com/ph.php?&isp=2&id=cs29
+ Space Shower TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=bs26
+ Music Japan TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs06
+ Kayo Pops (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs13
+ MTV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs18
+ LaLa TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs19
+ Takarazuka Sky Stage (Primehome),https://epg.freejptv.com/ph.php?&isp=2&id=cs28
+ Kids Staton TV (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs07
+ Cartoon Network (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs25
+ National Geographic Japan (Primehome) ,https://epg.freejptv.com/ph.php?&isp=1&id=cs10
+ Disney Junior (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs23
+ Discovery Channel (Primehome)  ,https://epg.freejptv.com/ph.php?&isp=1&id=cs08
+ Animal Planet (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs24
+ History (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs08
+ CNNj (Primehome) ,https://epg.freejptv.com/ph.php?&isp=1&id=cs16
+ BBC News (Primehome)  ,https://epg.freejptv.com/ph.php?&isp=1&id=cs15
+ TBS News (Primehome),https://epg.freejptv.com/ph.php?&isp=1&id=cs11
 美国电视台,#genre#
 ONE Golf,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
 爱自然lovenature,http://api2.52tb.xyz/info?id=163&token=20230404dmgnht
@@ -1924,5 +2063,6 @@ DaNangTV2(5G专线),http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.
 名侦探柯南,http://epg.112114.xyz/douyu/7050342
 圣斗士星矢,http://epg.112114.xyz/douyu/8458270
 假面骑士,http://epg.112114.xyz/douyu/1218414
+
 
 
