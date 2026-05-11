@@ -16,7 +16,6 @@ CCTV1,http://39.134.13.66:6610/180000001001/00000001000000000007000000001243/ind
 CCTV1,http://39.134.13.73:6610/180000001001/00000001000000000007000000001243/index.m3u8?
 CCTV1,http://39.134.240.3/PLTV/2/224/3221225886/index.m3u8
 CCTV1,http://39.134.240.3/PLTV/2/224/3221226134/index.m3u8
-
 CCTV2,http://111.23.232.117:80/180000001002/00000000000000020000000000182301/main.m3u8
 CCTV2,http://111.23.232.117:80/180000001002/00000001000000000008000000047431/main.m3u8
 CCTV2,http://39.134.13.35:6610/180000001001/00000001000000000008000000047431/index.m3u8?
@@ -87,7 +86,6 @@ CCTV9,http://39.134.13.35:6610/180000001001/00000001000000001001000000000057/mai
 CCTV9,http://39.134.240.3/PLTV/2/224/3221225819/index.m3u8
 CCTV9,http://39.134.240.3/PLTV/2/224/3221225934/index.m3u8
 CCTV9,http://39.134.242.92:80/180000001002/00000001000000000008000000047438/index.m3u8
-
 CCTV1,http://39.134.242.92:80/180000001002/00000001000000000007000000001243/index.m3u8
 CCTV10,http://111.23.232.117:80/180000001002/00000000000000020000000000182294/main.m3u8
 CCTV10,http://111.23.232.117:80/180000001002/00000001000000000008000000047439/main.m3u8
@@ -180,7 +178,6 @@ CGTN阿拉伯语,http://111.23.232.117:80/180000001002/0000000100000000007100000
 风云音乐,http://111.23.232.117:80/180000001002/00000001000000000091000000244809/main.m3u8
 高尔夫网球,http://111.23.232.117:80/180000001002/00000001000000000091000000244801/main.m3u8
 湖南电视台,#genre#
-
 湖南卫视4K,http://111.23.232.117:80/180000001002/00000001000000000064000000308827/main.m3u8
 湖南卫视,http://39.134.242.92:80/180000001002/00000001000000000007000000001242/index.m3u8
 湖南卫视,http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
@@ -364,7 +361,6 @@ CGTN阿拉伯语,http://111.23.232.117:80/180000001002/0000000100000000007100000
 湘潭新闻综合,http://111.23.232.117:80/180000001002/00000001000000000008000000047451/main.m3u8
 湘潭县综合,http://111.23.232.117:80/180000001002/32024050609482919270088688329990/main.m3u8
 湘乡新闻综合,http://111.23.232.117:80/180000001002/32024010517455620143747854688390/main.m3u8
-
 湖南公共,http://39.134.242.92:80/180000001002/00000001000000000008000000047425/index.m3u8
 湖南公共,http://39.134.240.3/PLTV/2/224/3221226192/index.m3u8
 湖南公共,http://39.134.240.3/PLTV/2/224/3221225904/index.m3u8
@@ -443,7 +439,6 @@ CGTN阿拉伯语,http://111.23.232.117:80/180000001002/0000000100000000007100000
 中方台,http://111.23.232.117:80/180000001002/32024052707494681186631691050510/main.m3u8
 CETV-4,http://111.23.232.117:80/180000001002/00000001000000000024000000361368/main.m3u8
 CETV-2,http://111.23.232.117:80/180000001002/00000001000000000024000000361367/main.m3u8
-
 地方卫视,#genre#
 江苏卫视,http://39.134.13.34:6610/180000001001/00000001000000000007000000001244/index.m3u8?
 江苏卫视,http://39.134.13.35:6610/180000001001/00000000000000020000000000182569/index.m3u8?
@@ -676,10 +671,6 @@ CETV-2,http://111.23.232.117:80/180000001002/00000001000000000024000000361367/ma
 四川康巴卫视,http://111.23.232.117:80/180000001002/00000001000000000134000000367619/main.m3u8
 延边卫视,http://111.23.232.117:80/180000001002/32023031709181220216556910725802/main.m3u8
 三沙卫视,http://111.23.232.117:80/180000001002/00000001000000000031000000068476/main.m3u8
-
-
-
-
 地方电视台,#genre#
 安徽-黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
 安康公共频道,http://pili-live-hdl.hsyapp.sobeylingyun.com/xjhsyapp2019/sxakggpd.m3u8
@@ -1433,10 +1424,8 @@ CETV-2,http://111.23.232.117:80/180000001002/00000001000000000024000000361367/ma
 准格尔旗电视台,http://pili-live-hls.nmgapp12019.sobeylive.com/nmgapp12019/live161802828375549.m3u8
 卓尼综合频道,http://pili-live-hls.hfmt.net/gntv/zntv.m3u8
 自贡综合频道,http://110.189.153.160:1001/zhpd.flv
-港澳电视台,#genre#
-
+港澳台电视台,#genre#
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
-台湾电视台,#genre#
 Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
@@ -1449,14 +1438,11 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 东森美洲卫视,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
-
-
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 民视新闻,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
@@ -1472,88 +1458,28 @@ TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 唯心电视,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
 唯心电视,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-
 孝廉,http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
 TVBS Asia (1080p),http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-
-
 日本电视台,#genre#
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 Gaki no Tsukai (English Subs) (720p),https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
-
-
-
-
 日本购物,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out3/prog_index.m3u8
 日本购物,http://stream1.shopch.jp/HLS/out4/prog_index.m3u8
-
-
-
-
-
-
 Disney Junior Japan (400p),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
-
-
-
 Fuji TV (540p),https://fujitv4.mov3.co/hls/fujitv.m3u8
-
-
-
-
 GSTV (720p),https://gstv-tnz-gsmediastreaming.preview-jpea.channel.media.azure.net/dfd06b62-e9d1-4a7f-bcbb-89d2ecbc82ee/preview.ism/manifest(format=mpd-time-csfaudio-only=false)
-
-
-
-
 NHK G (Tokyo) (540p) [Not 24/7],https://nhk4.mov3.co/hls/nhk.m3u8
-
-
-
 Shop Channel (1080p) [Not 24/7],https://stream3.shopch.jp/HLS/master.m3u8
-
-
-
-
 美国电视台,#genre#
-
-
-
-
-
-
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-
-
-
-
-
 30A Darcizzle Offshore (720p),https://30a-tv.com/darcizzle.m3u8
 30A Georgia Hollywood Review TV,https://30a-tv.com/gh.m3u8
-
-
-
-
-
 30A Golf Kingdom,https://30a-tv.com/feeds/vidaa/golf.m3u8
 30A Investment Pitch,https://www.30a-tv.com/InvPit.m3u8
 30A Investment Pitch (720p),https://30a-tv.com/feeds/xodglobal/30atv.m3u8
-
-
-
 30A Luxe Life Discovered,https://30a-tv.com/feeds/vidaa/luxelife.m3u8
 30A Music (720p),https://30a-tv.com/music.m3u8
 30A Music Channel,https://30a-tv.com/feeds/ceftech/30atvmusic.m3u8
@@ -2040,27 +1966,11 @@ MeTV Toons (720p),https://d3m10mlzdolmch.cloudfront.net/v1/master/840a24ccd7c750
 Comedy Central East,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 30A Ridiculous TV (720p),https://30a-tv.com/feeds/720p/63.m3u8
 国外其他,#genre#
-
-
-
-
 阿联酋ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-
-
-
-
-
 俄罗斯CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 俄罗斯Hope,http://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-
-
-
-
 俄罗斯IGITV,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 俄罗斯UniverTV,http://cdn.universmotri.ru/live/hq.sdp/chunklist_w1792531.m3u8
-
-
-
 加拿大CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 卡塔尔半岛电视台新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 泰国THAIPBS,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
@@ -2079,19 +1989,3 @@ Comedy Central East,http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 越南NhanDan,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 越南NhanDan,https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1915921234.m3u8
 越南嘉莱,http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-电影轮播,#genre#
-
-
-
-动画片,#genre#
-哆啦A梦,https://epg.112114.xyz/huya/11601963
-猫和老鼠,https://epg.112114.xyz/huya/11352879
-网球王子,https://epg.112114.xyz/huya/11352882
-中华小当家,https://epg.112114.xyz/huya/11342413
-海绵宝宝,http://epg.112114.xyz/douyu/1569773
-海绵宝宝,http://epg.112114.xyz/douyu/3949681
-名侦探柯南,http://epg.112114.xyz/douyu/6484910
-名侦探柯南,http://epg.112114.xyz/douyu/1783144
-名侦探柯南,http://epg.112114.xyz/douyu/7050342
-圣斗士星矢,http://epg.112114.xyz/douyu/8458270
-假面骑士,http://epg.112114.xyz/douyu/1218414
