@@ -16,6 +16,10 @@ https://github.com/wcb1969/iptv
 
 https://github.com/iptv-org/iptv/tree/master/streams
 
+日本电视台直播源
+
+https://tadasore2024.livedoor.blog/archives/14385013.html
+
 
 直播源地址
 
