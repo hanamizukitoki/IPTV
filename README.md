@@ -16,9 +16,7 @@ https://github.com/wcb1969/iptv
 
 https://github.com/iptv-org/iptv/tree/master/streams
 
-日本电视台直播源
 
-https://tadasore2024.livedoor.blog/archives/14385013.html
 
 
 直播源地址
@@ -26,7 +24,9 @@ https://tadasore2024.livedoor.blog/archives/14385013.html
 https://od.lk/s/OTFfNDAwMzU1MjFf/HUNANiptv.txt
 https://raw.githubusercontent.com/hanamizukitoki/IPTV/main/HUNANiptv202311221515.txt
 
-日本电视台直播源https://tadasore2024.livedoor.blog/archives/14385013.html
+日本电视台直播源
+
+https://tadasore2024.livedoor.blog/archives/14385013.html
 
 
 EPG节目表
